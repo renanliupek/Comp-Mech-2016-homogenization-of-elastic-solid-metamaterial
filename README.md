@@ -12,9 +12,6 @@ matlab script implementing the computational homogenization of locally resonant 
 
 3- FATAL: remember to rename the exported comsol mesh `.mphtxt` to `.txt`.
 
-4- the files `computedworkspace_Liang.mat` and `computedworkspace_Liang_willis.mat` are the output workspaces of `main.m` for: the symmetric unit cell, figure 3(a); and the asymmetric unit cell, figure 7, respectively.
-
-
 
 ## `main_pbc.m` file description
 
